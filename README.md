@@ -1,4 +1,4 @@
-<h2 align="left">Merhaba👋! Ben Melda, profilime hoşgeldiniz 🤗</h2>
+<h2 align="left">Merhaba👋!</h2>
 
 ###
 
